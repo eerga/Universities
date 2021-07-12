@@ -1,0 +1,109 @@
+country,institute_type,direct_expenditure_type,1995,2000,2005,2009,2010,2011
+Australia,Higher Education Institutions ,Public,1.2,0.8,0.8,0.7,0.8,0.7
+Austria,Higher Education Institutions ,Public,0.9,1.2,1.2,1.4,1.5,1.4
+Belgium,Higher Education Institutions ,Public,0.9,1.2,1.2,1.4,1.4,1.3
+Canada,Higher Education Institutions ,Public,1.5,1.6,1.5,1.5,1.6,
+Chile,Higher Education Institutions ,Public,,0.6,0.3,0.3,0.8,0.7
+Czech Republic,Higher Education Institutions ,Public,0.7,0.8,0.8,1,1,1.2
+Denmark,Higher Education Institutions ,Public,1.3,1.5,1.6,1.8,1.8,1.8
+Estonia,Higher Education Institutions ,Public,,,0.9,1.3,1.3,1.4
+Finland,Higher Education Institutions ,Public,1.7,1.7,1.7,1.8,1.9,1.9
+France,Higher Education Institutions ,Public,1,1,1.1,1.3,1.3,1.3
+Germany,Higher Education Institutions ,Public,1,1,0.9,1.1,,1.1
+Greece,Higher Education Institutions ,Public,0.8,0.9,1.4,,,
+Hungary,Higher Education Institutions ,Public,0.8,0.9,0.9,1,0.8,1
+Iceland,Higher Education Institutions ,Public,0.7,0.8,1.1,1.2,1.1,1.1
+Ireland,Higher Education Institutions ,Public,0.9,1.2,1,1.4,1.3,1.2
+Israel,Higher Education Institutions ,Public,,1.1,1,1,1,0.9
+Italy,Higher Education Institutions ,Public,0.7,0.7,0.6,0.8,0.8,0.8
+Japan,Higher Education Institutions ,Public,0.4,0.5,0.5,0.5,0.5,0.5
+"Korea, Republic of",Higher Education Institutions ,Public,0.3,0.6,0.6,0.7,0.7,0.7
+Luxembourg,Higher Education Institutions ,Public,0.1,,,,,
+Mexico,Higher Education Institutions ,Public,0.8,0.8,0.9,1,1,0.9
+Netherlands,Higher Education Institutions ,Public,1.1,1,1,1.2,1.3,1.3
+New Zealand,Higher Education Institutions ,Public,1.1,0.9,0.9,1.1,1,1
+Norway,Higher Education Institutions ,Public,1.5,1.2,1.3,1.3,1.6,1.6
+Poland,Higher Education Institutions ,Public,0.8,0.8,1.2,1.1,1,1
+Portugal,Higher Education Institutions ,Public,1,1,0.9,1,1,1
+Slovak Republic,Higher Education Institutions ,Public,,0.7,0.7,0.7,0.7,0.8
+Slovenia,Higher Education Institutions ,Public,,,1,1.1,1.1,1.1
+Spain,Higher Education Institutions ,Public,0.8,0.9,0.9,1.1,1.1,1
+Sweden,Higher Education Institutions ,Public,1.6,1.5,1.5,1.6,1.6,1.6
+Switzerland,Higher Education Institutions ,Public,1.1,1.2,1.4,1.4,1.3,1.3
+Turkey,Higher Education Institutions ,Public,0.8,1,,,,
+United Kingdom,Higher Education Institutions ,Public,0.7,0.7,0.9,0.6,0.7,0.9
+United States,Higher Education Institutions ,Public,1.1,0.8,1,1.1,1,0.9
+  Brazil,Higher Education Institutions ,Public,,,0.8,0.8,0.9,0.9
+  Russian Federation,Higher Education Institutions ,Public,0.7,0.5,0.8,1.2,1,0.9
+Australia,Higher Education Institutions ,Private,,,,,,0.9
+Austria,Higher Education Institutions ,Private,,,,,,0.1
+Belgium,Higher Education Institutions ,Private,,,,,,0.1
+Canada,Higher Education Institutions ,Private,,,,,,
+Chile,Higher Education Institutions ,Private,,,,,,1.7
+Czech Republic,Higher Education Institutions ,Private,,,,,,0.3
+Denmark,Higher Education Institutions ,Private,,,,,,0.1
+Estonia,Higher Education Institutions ,Private,,,,,,0.3
+Finland,Higher Education Institutions ,Private,,,,,,0.1
+France,Higher Education Institutions ,Private,,,,,,0.2
+Germany,Higher Education Institutions ,Private,,,,,,0.2
+Greece,Higher Education Institutions ,Private,,,,,,
+Hungary,Higher Education Institutions ,Private,,,,,,
+Iceland,Higher Education Institutions ,Private,,,,,,0.1
+Ireland,Higher Education Institutions ,Private,,,,,,0.3
+Israel,Higher Education Institutions ,Private,,,,,,0.8
+Italy,Higher Education Institutions ,Private,,,,,,0.2
+Japan,Higher Education Institutions ,Private,,,,,,1
+"Korea, Republic of",Higher Education Institutions ,Private,,,,,,1.9
+Luxembourg,Higher Education Institutions ,Private,,,,,,
+Mexico,Higher Education Institutions ,Private,,,,,,0.4
+Netherlands,Higher Education Institutions ,Private,,,,,,0.5
+New Zealand,Higher Education Institutions ,Private,,,,,,0.5
+Norway,Higher Education Institutions ,Private,,,,,,0.1
+Poland,Higher Education Institutions ,Private,,,,,,0.3
+Portugal,Higher Education Institutions ,Private,,,,,,0.4
+Slovak Republic,Higher Education Institutions ,Private,,,,,,0.2
+Slovenia,Higher Education Institutions ,Private,,,,,,0.2
+Spain,Higher Education Institutions ,Private,,,,,,0.3
+Sweden,Higher Education Institutions ,Private,,,,,,0.2
+Switzerland,Higher Education Institutions ,Private,,,,,,
+Turkey,Higher Education Institutions ,Private,,,,,,
+United Kingdom,Higher Education Institutions ,Private,,,,,,0.3
+United States,Higher Education Institutions ,Private,,,,,,1.8
+  Brazil,Higher Education Institutions ,Private,,,,,,
+  Russian Federation,Higher Education Institutions ,Private,,,,,,0.5
+Australia,Higher Education Institutions ,Total,,,,,,1.6
+Austria,Higher Education Institutions ,Total,,,,,,1.5
+Belgium,Higher Education Institutions ,Total,,,,,,1.4
+Canada,Higher Education Institutions ,Total,,,,,,
+Chile,Higher Education Institutions ,Total,,,,,,2.4
+Czech Republic,Higher Education Institutions ,Total,,,,,,1.4
+Denmark,Higher Education Institutions ,Total,,,,,,1.9
+Estonia,Higher Education Institutions ,Total,,,,,,1.7
+Finland,Higher Education Institutions ,Total,,,,,,1.9
+France,Higher Education Institutions ,Total,,,,,,1.5
+Germany,Higher Education Institutions ,Total,,,,,,1.3
+Greece,Higher Education Institutions ,Total,,,,,,
+Hungary,Higher Education Institutions ,Total,,,,,,
+Iceland,Higher Education Institutions ,Total,,,,,,1.2
+Ireland,Higher Education Institutions ,Total,,,,,,1.5
+Israel,Higher Education Institutions ,Total,,,,,,1.7
+Italy,Higher Education Institutions ,Total,,,,,,1
+Japan,Higher Education Institutions ,Total,,,,,,1.6
+"Korea, Republic of",Higher Education Institutions ,Total,,,,,,2.6
+Luxembourg,Higher Education Institutions ,Total,,,,,,
+Mexico,Higher Education Institutions ,Total,,,,,,1.3
+Netherlands,Higher Education Institutions ,Total,,,,,,1.8
+New Zealand,Higher Education Institutions ,Total,,,,,,1.5
+Norway,Higher Education Institutions ,Total,,,,,,1.7
+Poland,Higher Education Institutions ,Total,,,,,,1.3
+Portugal,Higher Education Institutions ,Total,,,,,,1.4
+Slovak Republic,Higher Education Institutions ,Total,,,,,,1
+Slovenia,Higher Education Institutions ,Total,,,,,,1.3
+Spain,Higher Education Institutions ,Total,,,,,,1.3
+Sweden,Higher Education Institutions ,Total,,,,,,1.7
+Switzerland,Higher Education Institutions ,Total,,,,,,
+Turkey,Higher Education Institutions ,Total,,,,,,
+United Kingdom,Higher Education Institutions ,Total,,,,,,1.2
+United States,Higher Education Institutions ,Total,,,,,,2.7
+  Brazil,Higher Education Institutions ,Total,,,,,,
+  Russian Federation,Higher Education Institutions ,Total,,,,,,1.4

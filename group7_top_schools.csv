@@ -1,0 +1,101 @@
+Institution,Acceptance_Rate,Cost_of_attendance,start_salary,Region
+Harvard University,4.60%,73800,63400,North America
+Massachusetts Institute of Technology,7.00%,73160,72200,North America
+Stanford University,4.00%,74570,70400,North America
+University of Cambridge,21.00%,12751.12,43450.32,Europe
+California Institute of Technology,6.00%,74763,75500,North America
+Princeton University,6.00%,74150,66500,North America
+University of Oxford,17.50%,12751.12,44731.16,Europe
+Yale University,6.00%,76645,59100,North America
+Columbia University,5.00%,79752,59400,North America
+"University of California, Berkeley",16.00%,39376,59900,North America
+University of Chicago,6.00%,81531,72000,North America
+Cornell University,11.00%,76258,60300,North America
+University of Pennsylvania,8.00%,77264,60900,North America
+University of Tokyo,34.20%,3190,22720.77,Asia
+Johns Hopkins University,11.00%,74028,68000,North America
+Swiss Federal Institute of Technology in Zurich,27.00%,1332,112000,Europe
+Kyoto University,37.00%,4957,31434,Asia
+Weizmann Institute of Science,,9288,93696,Europe
+"University of California, Los Angeles",12.00%,35793,70000,North America
+"University of California, San Diego",31.00%,33849,51100,North America
+Rockefeller University,,25000,98000,North America
+Hebrew University of Jerusalem,25.00%,3002,72708,Middle East
+New York University,16.00%,75502,50300,North America
+"University of California, San Francisco",16.30%,53567,59000,North America
+University of Wisconsin–Madison,54.00%,26553,50000,North America
+University of Illinois at Urbana–Champaign,59.00%,30302,61500,North America
+Duke University,8.00%,77029,58900,North America
+Imperial College London,14.30%,12751,52409,Europe
+University of Texas Southwestern Medical Center,15.00%,22651,,North America
+University of Texas at Austin,32.00%,27728,58200,North America
+University College London,63.00%,12751,43810.94,Europe
+Osaka University,41.00%,4957,,Asia
+Northwestern University,9.00%,78654,52700,North America
+"University of Michigan, Ann Arbor",23.00%,31056,61099,North America
+University of Toronto,43.00%,5251,50000,North America
+University of North Carolina at Chapel Hill,23.00%,24228,42900,North America
+Washington University in St. Louis,14.00%,76910,63000,North America
+University of Utah,62.00%,14364,45400,North America
+University of Washington - Seattle,52.00%,28394,50000,North America
+"University of California, Santa Barbara",30.00%,36765,50500,North America
+McGill University,46.30%,1905,53000,North America
+"Purdue University, West Lafayette",60.00%,22882,50000,North America
+Carnegie Mellon University,15.00%,74491,61800,North America
+University of Southern California,11.00%,77459,54800,North America
+"University of California, Davis",39.00%,35935,52300,North America
+University of Colorado Boulder,78.00%,31034,55000,North America
+"University of California, Irvine",27.00%,35363,48300,North America
+University of Paris-Sud,,1000,,Europe
+"University of Minnesota, Twin Cities",57.00%,28819,46000,North America
+University of Arizona,85.00%,30041,47500,North America
+Technion – Israel Institute of Technology,,8000,,Middle East
+"Ohio State University, Columbus",54.00%,27912,42000,North America
+University of Rochester,30.00%,75190,49000,North America
+École normale supérieure - Paris,8.00%,1196,,Europe
+University of Florida,37.00%,21211,47100,North America
+Tel Aviv University,,13250,,Middle East
+Rice University,9.00%,67102,64000,North America
+Dartmouth College,8.00%,77152,58000,North America
+Vanderbilt University,9.00%,73148,51200,North America
+University of Edinburgh,10.00%,2508,43248.59,Europe
+École Polytechnique,5.00%,4785,,Europe
+Boston University,19.00%,75002,49000,North America
+Pierre-and-Marie-Curie University,,420,,Europe
+"Pennsylvania State University, University Park",76.00%,36962,55000,North America
+University of Geneva,20.80%,1089,,Europe
+Brown University,7.00%,77490,56200,North America
+University of British Columbia,52.40%,4800,51000,North America
+"University of Maryland, College Park",44.20%,26450,52000,North America
+Swiss Federal Institute of Technology in Lausanne,27.00%,1337,,Europe
+Karolinska Institute,3.90%,0,,Europe
+University of Pittsburgh - Pittsburgh Campus,57.00%,34409,44000,North America
+Rutgers University-New Brunswick,58.00%,28482,48000,North America
+"Texas A&M University, College Station",58.00%,30083,58000,North America
+Nagoya University,40.70%,4923,,Asia
+Seoul National University,0.50%,5677,,Asia
+University of Manchester,56.10%,12751,,Europe
+Sapienza University of Rome,55.00%,3503,,Europe
+Case Western Reserve University,27.00%,69638,56200,North America
+Tohoku University,41.00%,4923,,Asia
+Arizona State University,86.00%,29103,47400,North America
+Emory University,16.00%,72604,52000,North America
+Ruprecht Karl University of Heidelberg,16.30%,411,,Europe
+Ludwig Maximilian University of Munich,10.00%,0,,Europe
+University of Virginia,24.00%,34000,52700,North America
+Leiden University,50.00%,2468,,Europe
+Tufts University,15.00%,76200,,North America
+Georgia Institute of Technology,21.00%,29632,58300,North America
+University of Zurich,45.00%,783,,Europe
+University of Helsinki,17.00%,0,,Europe
+Technical University of Munich,8.00%,0,,Europe
+University of Oslo,10.00%,0,,Europe
+University of Queensland,40.00%,6554,,Australia
+University of Copenhagen,45.00%,0,,Europe
+University of Sydney,30.00%,6997,,Australia
+Williams College,13.00%,75520,51700,North America
+University of Texas MD Anderson Cancer Center,,5500,,North America
+University of Nottingham,11.00%,12751,,Europe
+University of Bristol,67.30%,12751,41216.11,Europe
+Utrecht University,,2468,,Europe
+Mines ParisTech,5.00%,4493,,Europe
